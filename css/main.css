@@ -2,8 +2,13 @@ h1{
     text-align: center;
     color:brown;
 }
+.espacio{
+
+}
 div{
     display: inline-block;
+}
+.info, .imagen{
     vertical-align: middle;
 }
 #conWidth{
