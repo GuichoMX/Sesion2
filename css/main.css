@@ -1,7 +1,15 @@
 h1{
     text-align: center;
+    color:brown;
+}
+div{
+    display: inline-block;
+    vertical-align: middle;
 }
 #conWidth{
     width: 20px;
     display: inline-block;
+}
+img{
+    width: 232px;
 }
